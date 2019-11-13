@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="karibufm:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/karibufm_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="karibufm" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="karibufm/web/Web" />
+    </root>
+  </artifact>
+</component>
